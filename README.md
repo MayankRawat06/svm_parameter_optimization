@@ -19,7 +19,7 @@ The following parameters are optimized in this project:
 - **epsilon:** the margin of error allowed in the SVM algorithm.
 
 ## Result
-[]()
+<img src="result.png" width=400/>
 
 ## Conclusion
 
